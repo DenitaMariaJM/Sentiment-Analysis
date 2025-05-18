@@ -17,8 +17,10 @@
   
   In addition to evaluation metrics, the model’s learned coefficients are used to identify the top words that strongly influence sentiment classification. Positive coefficients represent words likely to appear in positive tweets (e.g., “love,” “great”), while negative coefficients correspond to words frequently found in negative tweets (e.g., “hate,” “worst”). These top words are visualized using horizontal bar charts to provide insights into what drives sentiment in social media text.
   
-  Overall, the project demonstrates a complete NLP pipeline: starting from raw text data, followed by cleaning and transformation, then training a machine learning model, and finally evaluating and interpreting the results. The final output is a working sentiment classifier capable of automatically identifying the emotional tone of tweets. This type of model has real-world applications in customer feedback analysis, brand monitoring, political sentiment tracking, and more. The simplicity of logistic regression combined with the robustness of TF-IDF makes this solution both interpretable and efficient. Future improvements could include using more complex models like SVMs, neural networks, or incorporating deep learning-based language models.
+
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/83ab17f1-232a-445e-92b0-673d0015b9d4)
 
 ![Image](https://github.com/user-attachments/assets/83ab17f1-232a-445e-92b0-673d0015b9d4)
