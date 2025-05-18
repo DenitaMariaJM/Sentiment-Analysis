@@ -1,9 +1,14 @@
 # Sentiment-Analysis
 *COMPANY*: CODTECH IT SOLUTIONS
+
 *NAME*: DENITA MARIA
+
 *INTERN ID*:CT04DK495
+
 *DOMAIN*: DATA ANALYSIS
+
 *DURATION*:4 WEEKS
+
 *MENTOR*:NEELA SANTHOSH
 
 ## This project focuses on sentiment analysis using natural language processing (NLP) techniques on the Sentiment140 dataset, which contains 1.6 million tweets labeled as either positive or negative. The primary objective is to develop a machine learning model that can accurately classify the sentiment expressed in a tweet. The dataset was downloaded from Kaggle and includes tweet text along with corresponding sentiment labels—0 for negative and 4 for positive. For simplicity and computational efficiency, a random sample of 100,000 tweets was used in this analysis. The project uses Python as the core language, supported by libraries such as Pandas and NumPy for data manipulation, NLTK for text preprocessing, scikit-learn for model training and evaluation, and Matplotlib and Seaborn for visualization. 
